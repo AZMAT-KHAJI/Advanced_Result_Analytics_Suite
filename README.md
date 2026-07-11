@@ -94,16 +94,21 @@ Visit `http://127.0.0.1:8000` to access the application.
 4. Export reports directly from the dashboard as needed.
 
 ## Screenshots
+<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/c53c7422-3aa4-44a7-a382-b0bc94421dab" />
+<img width="995" height="812" alt="image" src="https://github.com/user-attachments/assets/c88da1ef-0cea-4875-bbdd-fb5261160ee2" />
+<img width="783" height="506" alt="image" src="https://github.com/user-attachments/assets/dded7017-5988-471c-af69-05495d8ff0a4" />
+<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/531308e7-ffcd-4ba7-b6d8-784e329fa5bc" />
+<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/d91cff31-40c2-4b39-8da7-127d8c02252d" />
 
 
-
+ 
 ## Contributors
 
 | Name | Role |
 |---|---|
 | Azmat Khaji | Backend (Django), Deployment |
-| @Chaithanya | *Add role* |
-| @Veena reddy | *Add role* |
+| Chaithanya R | Database, charts and Analytics |
+| Veena reddy | Frontend , Team Leader |
 
 ## Roadmap
 
